@@ -4,7 +4,7 @@
 <div align="center">
     <img src="images/gpt-3splash.png" alt="Splash" width="600" height="400">
     &nbsp;
-    <img src="images/gpt-3splashmobile.jpg" alt="Splash" width="200" height="400">
+    <img src="images/gpt-3splashmobile.png" alt="Splash" width="200" height="400">
 </div>
 <div align="center">
 <h3 align="center">GPT-3</h3>
