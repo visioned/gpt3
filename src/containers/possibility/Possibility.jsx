@@ -14,7 +14,7 @@ const Possibility = () => {
         <h1 className="gradient__text">
           The possibilities are beyond your imagination
         </h1>
-        <p className="gpt3__possibility-content">
+        <p>
           Yet bed any for traveling assistance indulgence unpleasing. Not
           thoughts all exercise blessing. Indulgence way everything joy
           alteration boisterous the attachment. Party we years to order allow
