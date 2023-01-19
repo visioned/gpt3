@@ -7,9 +7,9 @@
     <img src="images/gpt-3splashmobile.jpg" alt="Splash" width="200" height="400">
 </div>
 <div align="center">
-<h3 align="center">HooBank</h3>
+<h3 align="center">GPT-3</h3>
   <p align="center">
-    HooBank // Single Page Landing
+    GPT-3  // Single Page Landing
     <br />
   </p>
 </div>
@@ -38,5 +38,5 @@ Found a great design file to work with. Production is hella easy like this. 😍
 ### Built With
 * Vite.js
 * React
-* Figma // check out the Figma file <a href="https://www.figma.com/file/WnoAGy24iwoRnJ79m5MgXL/HooBank?node-id=0%3A1&t=RzWYc0RMa2q9ovLK-1">here</a> 
+* Figma // check out the Figma file <a href="https://www.figma.com/file/b1I1nJ0q76mcKZ23FVbPqm/gpt3?t=Pd5Og9HeVVSGrG9e-1">here</a> 
 * Vercel
